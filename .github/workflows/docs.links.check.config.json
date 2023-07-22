@@ -22,6 +22,12 @@
             "pattern": "^https://[a-z]*.mycompany.com/"
         },
         {
+            "pattern": "^http://casdoor[*]-server-address[*]:8000/login/"
+        },
+        {
+            "pattern": "^https://my-nginx.example.com/_codexch"
+        },
+        {
             "pattern": "^https://flarum.org/"
         },
         {
