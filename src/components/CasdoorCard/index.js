@@ -9,6 +9,7 @@ export default function CasdoorCard(props) {
       style={{borderRadius: "20px"}}
       frameBorder="0"
       scrolling="no"
+      loading="lazy"
     ></iframe>
   );
 }
